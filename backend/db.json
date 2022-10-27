@@ -1,0 +1,65 @@
+{
+  "usuarios": [
+    {
+      "usuario": "Ewerton 2022",
+      "senha": "123123",
+      "id": 1
+    },
+    {
+      "usuario": "Marlon 123",
+      "senha": "123",
+      "id": 2
+    },
+    {
+      "nome": "HEBE CAMARGO",
+      "telefone": "333333",
+      "email": "hebecamrargo@yahoo.com.br",
+      "id": 3,
+      "usuario": "kevin",
+      "senha": "2222"
+    },
+    {
+      "nome": "HEBE CAMARGO",
+      "telefone": "333333",
+      "email": "xuxamenenguelo@yahoo.com.br",
+      "id": 4,
+      "usuario": "Izabelly",
+      "senha": "2222234567"
+    },
+    {
+      "usuario": "kevin",
+      "senha": "2222",
+      "id": 5
+    },
+    {
+      "usuario": "kevin",
+      "senha": "2222",
+      "id": 6
+    },
+    {
+      "usuario": "kevin",
+      "senha": "2222",
+      "id": 7
+    },
+    {
+      "usuario": "Juliana Abreu",
+      "senha": "11111111",
+      "id": 8
+    },
+    {
+      "usuario": "kevin",
+      "senha": "2222",
+      "id": 9
+    },
+    {
+      "usuario": "kevin",
+      "senha": "2222",
+      "id": 10
+    },
+    {
+      "usuario": "Dogggggggg",
+      "senha": "555555555555555555",
+      "id": 11
+    }
+  ]
+}
